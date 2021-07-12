@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Scotia - NDM Baseline
-- 🌱 I’m currently learning MeteorJS and React
+- 🔭 I’m currently working on MeteorJS and React
+- 🌱 I’m currently learning TDD.
 - ⚡ Fun fact: I like to play Cricket 
 
 ### Connect with me 🔗
